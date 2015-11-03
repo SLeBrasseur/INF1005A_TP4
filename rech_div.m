@@ -26,7 +26,7 @@ else
    m= length(x)
    x(m+1)= tableau(i);
    
-   
+   % Ici, tu pourras faire la même chose pour les nombres divisibles par 3
     if (mod(tableau ,3))
    end
    %%si nargin == 1
